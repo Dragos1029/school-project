@@ -1,5 +1,8 @@
 body {
-    background-color: rgb(32, 32, 32);
+    background-image: url('background2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
   #main_logo {
     display: table;
