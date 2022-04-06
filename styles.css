@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(32, 32, 32);
+  }
+  #main_logo {
+    display: table;
+    margin: 0 auto;
+    width: 75%;
+  }
+  .text {
+    color: white;
+  }
