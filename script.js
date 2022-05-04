@@ -1,3 +1,3 @@
 function myFunction() {
-    location.replace("./hornet/hornet.html")
+    window.location="./hornet/hornet.html"
   }
