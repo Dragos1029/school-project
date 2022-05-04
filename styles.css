@@ -1,5 +1,5 @@
 body {
-    background-image: url('background2.png');
+    background-image: url('background.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -13,4 +13,22 @@ body {
   .text {
     color: white;
     font: 15px "Times New Roman", Serif;
+  }
+
+  #nextBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: transparent;
+    border-radius: 12px;
+    padding: 10px 24px;
+    border: 2px solid #f44336;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+  }
+  #nextBtn:hover {
+    background-color: #f44336; /* Green */
+    color: white;
   }
