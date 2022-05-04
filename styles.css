@@ -3,11 +3,12 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
   }
   #main_logo {
     display: table;
     margin: 0 auto;
-    width: 75%;
+    width: 65%;
   }
   .text {
     color: white;
