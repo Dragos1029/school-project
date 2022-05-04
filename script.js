@@ -1,3 +1,3 @@
-function myFunction() {
-    window.location="./hornet/hornet.html"
+function nextPage() {
+    window.location.href="./hornet/hornet.html"
   }
