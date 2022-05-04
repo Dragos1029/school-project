@@ -1,7 +1,7 @@
 function nextPage() {
-    window.location.href="./index.html"
+    window.location.href="./"
   }
   
 function backPage() {
-  window.location.href="../index.html"
+  window.location.href="../"
 }
