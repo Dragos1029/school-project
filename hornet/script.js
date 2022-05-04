@@ -1,5 +1,5 @@
 function nextPage() {
-    window.location.href="./hornet.html"
+    window.location.href="./index.html"
   }
   
 function backPage() {
