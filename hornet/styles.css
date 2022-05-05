@@ -6,13 +6,13 @@ body {
     background-position: center;
   }
   #main_logo {
-    display: table;
+    max-width:55%;
     margin: 0 auto;
-    width: 65%;
+    display: table;
   }
   .text {
     color: white;
-    font: 1.25vw "Times New Roman", Serif;
+    font: 15px "Times New Roman", Serif;
   }
 
   #nextBtn {
