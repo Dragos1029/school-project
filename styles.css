@@ -12,19 +12,19 @@ body {
   }
   .text {
     color: white;
-    font: 1.25vw "Times New Roman", Serif;
+    font: 1.50vh "Times New Roman", Serif;
   }
 
   #nextBtn {
     position: fixed;
-    bottom: 1vw;
-    right: 1vw;
+    bottom: 1.5vw;
+    right: 1.5vw;
     background-color: transparent;
-    border-radius: 1vw;
-    padding: 1vw 2vw;
-    border: 0.2vw solid #f44336;
+    border-radius: 1vh;
+    padding: 1vh 2vh;
+    border: 0.2vh solid #f44336;
     color: white;
-    font-size: 2vw;
+    font: 20px "Times New Roman", Serif;
     text-decoration: none;
     transition-duration: 0.4s;
   }
