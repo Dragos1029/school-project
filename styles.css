@@ -12,7 +12,13 @@ body {
   }
   .text {
     color: white;
-    font: 1.50vh "Times New Roman", Serif;
+    font: 1.50vw "Times New Roman", Serif;
+  }
+
+  @media screen and (max-width: 800px) {
+    .text {
+      font: 1.50vh "Times New Roman", Serif;
+    }
   }
 
   #nextBtn {
