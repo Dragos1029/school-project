@@ -1,5 +1,5 @@
 function nextPage() {
-    window.location.href="./"
+    window.location.href="../quirrel"
   }
   
 function backPage() {
