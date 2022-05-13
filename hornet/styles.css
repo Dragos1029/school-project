@@ -15,19 +15,26 @@ body {
   }
   .text {
     color: white;
-    font: 20px "Times New Roman", Serif;
+    font: 2.3vh "Times New Roman", Serif;
     float: left;
-    width: 40%;
+    width: 50%;
   }
 
   .hornet {
-    width: 60%;
+    width: 50%;
     float: left;
   }
 
   @media screen and (max-width: 800px) {
     .hornet, .text {
       width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+      font: 1.35vh "Times New Roman", Serif;
+    }
+  }
+
+  @media screen and (max-height: 500px) {
+    .text {
+      font: 2.7vh "Times New Roman", Serif;
     }
   }
 
