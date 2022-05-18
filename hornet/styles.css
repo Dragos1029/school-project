@@ -15,9 +15,10 @@ body {
   }
   .text {
     color: white;
-    font: 2.3vh "Times New Roman", Serif;
+    font: 2.2vh "Times New Roman", Serif;
     float: left;
     width: 50%;
+    padding-bottom: 50px;
   }
 
   .hornet {

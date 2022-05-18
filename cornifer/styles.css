@@ -11,7 +11,7 @@ body {
   }
 
   #main_logo {
-    max-width:100%;
+    width: 100%;
   }
   .text {
     color: white;
@@ -21,13 +21,13 @@ body {
     padding-bottom: 50px;
   }
 
-  .quirrel {
+  .cornifer {
     width: 60%;
     float: left;
   }
 
   @media screen and (max-width: 800px) {
-    .quirrel, .text {
+    .cornifer, .text {
       width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     }
   }
