@@ -1,5 +1,5 @@
 function nextPage() {
-    window.location.href="./cornifer"
+    window.location.href="../cornifer"
   }
   
 function backPage() {
